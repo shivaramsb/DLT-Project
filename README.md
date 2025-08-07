@@ -1,8 +1,5 @@
 # DLT-Project
 
-
-Here is a `README.md` file for your Databricks Declarative Pipelines (Delta Live Tables) project, drawing on the information from the provided YouTube transcript:
-
 # Databricks Declarative Pipelines (Delta Live Tables) Medallion Architecture Project
 
 This repository contains an end-to-end implementation of a data pipeline using **Databricks Declarative Pipelines, also known as Delta Live Tables (DLT)**. The project focuses on building a **Medallion Architecture (Bronze, Silver, Gold layers)**, incorporating **Slowly Changing Dimensions (SCD) Type 2**, and implementing **data quality checks** and **automatic dependency management**. This solution leverages the latest Databricks UI and API changes from June 2025, providing a modern approach to data engineering on Databricks.
