@@ -42,6 +42,8 @@ The main objective is to build a sales data warehouse following the Medallion Ar
 
 The project implements a **Medallion Architecture** for a sales data warehouse:
 
+![alt text](image.png)
+
 *   **Bronze Layer (Ingestion)**:
     *   Ingests raw sales data from `sales_east` and `sales_west` sources into a unified `sales_STG` streaming table using the **`append_flow` API**.
     *   Ingests raw `products` and `customers` data into `products_STG` and `customers_STG` streaming tables.
