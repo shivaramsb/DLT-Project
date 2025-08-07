@@ -170,6 +170,13 @@ After the initial pipeline run:
 *   **Dry Run First**: Always use "Dry Run" before a full pipeline run to check for errors and visualize the DAG without consuming significant compute resources.
 *   **YAML Configuration**: The underlying configuration of DLT pipelines is often represented in YAML, which is becoming increasingly popular in declarative frameworks. Familiarity with basic YAML syntax is beneficial.
 
+## Project Output
+
+1. **Products Dimensions**
+![alt text](image-1.png)
+
+2. **Business Sales**
+![alt text](image-2.png)
 ---
 
 Feel free to explore the code, experiment with transformations, and adapt it for your own data engineering challenges! Happy learning!
