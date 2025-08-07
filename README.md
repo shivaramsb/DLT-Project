@@ -16,7 +16,7 @@ This repository contains an end-to-end implementation of a data pipeline using *
 *   [Validation](#validation)
 *   [Monitoring & Advanced Features](#monitoring--advanced-features)
 *   [Important Notes](#important-notes)
-*   [Project Output] (#Project Output)
+*   [Project Output](#project-output)
 
 ## Project Overview
 
@@ -174,9 +174,11 @@ After the initial pipeline run:
 ## Project Output
 
 1. **Products Dimensions**
+   
 ![alt text](image-1.png)
 
 2. **Business Sales**
+   
 ![alt text](image-2.png)
 ---
 
